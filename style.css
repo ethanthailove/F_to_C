@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+button {
+  font-size: 25px;
+  font-variant: small-caps;
+}
+
+img {
+  width: 400px;
+}
